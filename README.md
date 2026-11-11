@@ -1,6 +1,10 @@
-# Preview Blur
+# Preview Blur — Blur Preview Pesan WhatsApp Desktop untuk Windows
 
-Alat privasi Windows untuk memburamkan cuplikan pesan pada daftar chat WhatsApp Desktop.
+Preview Blur adalah aplikasi privasi untuk Windows yang memburamkan
+cuplikan pesan di daftar chat WhatsApp Desktop. Nama kontak tetap terlihat,
+sedangkan preview pesan dapat dibuka dengan mengarahkan kursor.
+
+[Download aplikasi](https://github.com/Superwannn/whatsapp-preview-blur/releases/latest)
 
 ## Contoh hasil blur
 
