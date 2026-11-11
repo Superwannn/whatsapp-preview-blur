@@ -1,0 +1,11 @@
+# Local builds, preferences and diagnostics
+*.exe
+*.pdb
+settings.txt
+*-result.txt
+benchmark-*.txt
+panel-*.png
+advanced-*.png
+calibration-preview.png
+bin/
+obj/
