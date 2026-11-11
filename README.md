@@ -2,6 +2,14 @@
 
 Alat privasi Windows untuk memburamkan cuplikan pesan pada daftar chat WhatsApp Desktop.
 
+## Contoh hasil blur
+
+![Perbandingan preview pesan sebelum dan sesudah blur](docs/usage-preview.png)
+
+Ilustrasi dengan kontak dan pesan fiktif, menggunakan algoritma blur aplikasi. Nama kontak tetap terlihat; hanya cuplikan pesan yang diburamkan.
+
+## Pengaturan
+
 ![Pengaturan Preview Blur](docs/settings.png)
 
 ## Pemakaian
